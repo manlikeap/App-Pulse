@@ -1,24 +1,24 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/arpan/StudioProjects/reddoorzapp/rdpulse/src/main/AndroidManifest.xml:2:1-7:12
-INJECTED from /Users/arpan/StudioProjects/reddoorzapp/rdpulse/src/main/AndroidManifest.xml:2:1-7:12
+ADDED from /Users/arpan.peter/AndroidStudioProjects/App-Pulse/rdpulse/src/main/AndroidManifest.xml:2:1-7:12
+INJECTED from /Users/arpan.peter/AndroidStudioProjects/App-Pulse/rdpulse/src/main/AndroidManifest.xml:2:1-7:12
 	package
-		INJECTED from /Users/arpan/StudioProjects/reddoorzapp/rdpulse/src/main/AndroidManifest.xml
+		INJECTED from /Users/arpan.peter/AndroidStudioProjects/App-Pulse/rdpulse/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/arpan/StudioProjects/reddoorzapp/rdpulse/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /Users/arpan.peter/AndroidStudioProjects/App-Pulse/rdpulse/src/main/AndroidManifest.xml:2:11-69
 uses-permission#android.permission.POST_NOTIFICATIONS
-ADDED from /Users/arpan/StudioProjects/reddoorzapp/rdpulse/src/main/AndroidManifest.xml:4:5-77
+ADDED from /Users/arpan.peter/AndroidStudioProjects/App-Pulse/rdpulse/src/main/AndroidManifest.xml:4:5-77
 	android:name
-		ADDED from /Users/arpan/StudioProjects/reddoorzapp/rdpulse/src/main/AndroidManifest.xml:4:22-74
+		ADDED from /Users/arpan.peter/AndroidStudioProjects/App-Pulse/rdpulse/src/main/AndroidManifest.xml:4:22-74
 uses-permission#android.permission.FOREGROUND_SERVICE
-ADDED from /Users/arpan/StudioProjects/reddoorzapp/rdpulse/src/main/AndroidManifest.xml:5:5-77
+ADDED from /Users/arpan.peter/AndroidStudioProjects/App-Pulse/rdpulse/src/main/AndroidManifest.xml:5:5-77
 	android:name
-		ADDED from /Users/arpan/StudioProjects/reddoorzapp/rdpulse/src/main/AndroidManifest.xml:5:22-74
+		ADDED from /Users/arpan.peter/AndroidStudioProjects/App-Pulse/rdpulse/src/main/AndroidManifest.xml:5:22-74
 uses-sdk
-INJECTED from /Users/arpan/StudioProjects/reddoorzapp/rdpulse/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /Users/arpan/StudioProjects/reddoorzapp/rdpulse/src/main/AndroidManifest.xml
-INJECTED from /Users/arpan/StudioProjects/reddoorzapp/rdpulse/src/main/AndroidManifest.xml
+INJECTED from /Users/arpan.peter/AndroidStudioProjects/App-Pulse/rdpulse/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/arpan.peter/AndroidStudioProjects/App-Pulse/rdpulse/src/main/AndroidManifest.xml
+INJECTED from /Users/arpan.peter/AndroidStudioProjects/App-Pulse/rdpulse/src/main/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /Users/arpan/StudioProjects/reddoorzapp/rdpulse/src/main/AndroidManifest.xml
+		INJECTED from /Users/arpan.peter/AndroidStudioProjects/App-Pulse/rdpulse/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/arpan/StudioProjects/reddoorzapp/rdpulse/src/main/AndroidManifest.xml
+		INJECTED from /Users/arpan.peter/AndroidStudioProjects/App-Pulse/rdpulse/src/main/AndroidManifest.xml

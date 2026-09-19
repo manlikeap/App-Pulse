@@ -1,0 +1,8 @@
+com.reddoorz.rdpulse-pngs-0 /Users/arpan/StudioProjects/reddoorzapp/rdpulse/build/generated/res/pngs/debug
+com.reddoorz.rdpulse-updated_navigation_xml-1 /Users/arpan/StudioProjects/reddoorzapp/rdpulse/build/generated/updated_navigation_xml/debug
+com.reddoorz.rdpulse-mergeDebugResources-2 /Users/arpan/StudioProjects/reddoorzapp/rdpulse/build/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.reddoorz.rdpulse-mergeDebugResources-3 /Users/arpan/StudioProjects/reddoorzapp/rdpulse/build/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.reddoorz.rdpulse-debug-4 /Users/arpan/StudioProjects/reddoorzapp/rdpulse/build/intermediates/merged_res/debug/mergeDebugResources
+com.reddoorz.rdpulse-debug-5 /Users/arpan/StudioProjects/reddoorzapp/rdpulse/build/intermediates/packaged_res/debug/packageDebugResources
+com.reddoorz.rdpulse-debug-6 /Users/arpan/StudioProjects/reddoorzapp/rdpulse/src/debug/res
+com.reddoorz.rdpulse-main-7 /Users/arpan/StudioProjects/reddoorzapp/rdpulse/src/main/res
